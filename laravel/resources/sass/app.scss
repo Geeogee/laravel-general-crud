@@ -1,0 +1,14 @@
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@import 'helpers/mixins';
+@import 'helpers/variables';
+
+@import 'layouts/header';
+@import 'layouts/footer';
+
+@import 'pages/home';

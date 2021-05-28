@@ -1,0 +1,6 @@
+header {
+
+    @include flex(row, center, center);
+    background-color: $guybrush;
+    height: 80px;
+}
